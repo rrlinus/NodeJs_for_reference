@@ -1,0 +1,12 @@
+body{
+    background-color: black;
+    color: brown;
+    text-align: center;
+}
+h1{
+    width: 80%;
+    margin: auto;
+    height: 100vh;
+    line-height: 100vh;
+    background-color: burlywood;
+}
